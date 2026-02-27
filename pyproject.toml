@@ -1,0 +1,7 @@
+[project]
+name = 'autumn'
+license-files = ['LICENSE']
+requires-python = '>=3.14'
+dependencies = [
+    'pydantic>2.1',
+]
